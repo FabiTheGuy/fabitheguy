@@ -1,5 +1,5 @@
 # Hi, I'm Fabian Döller ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm a 23-year-old Computer Science student at the University of Constance.
+I'm a 24-year-old Computer Science student at the University of Constance.
 
 ## About me
 - 🎓 Studying Computer Science at the University of Constance since 2022.
